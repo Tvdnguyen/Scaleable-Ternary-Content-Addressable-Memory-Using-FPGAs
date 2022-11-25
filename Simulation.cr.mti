@@ -1,0 +1,113 @@
+{C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/alram1x.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/alram1x.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alram1x
+
+Top level modules:
+	alram1x
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compr_datapath.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compr_datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module compr_datapath
+
+Top level modules:
+	compr_datapath
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compreng.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compreng.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module compreng
+
+Top level modules:
+	compreng
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tcam.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tcam.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tcam
+
+Top level modules:
+	tcam
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/confirmmem.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/confirmmem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module confirmmem
+
+Top level modules:
+	confirmmem
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvectmem.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvectmem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module maskvectmem
+
+Top level modules:
+	maskvectmem
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvectmem.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvectmem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module segvectmem
+
+Top level modules:
+	segvectmem
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/confirmeng.v} {1 {vlog -work work -stats=none {C:\Users\dangt\OneDrive\Documents\Projects\TCAM Project\TCAM Code Execution and Explanation\Optimal M10K TCAM\confirmeng.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module confirmeng
+
+Top level modules:
+	confirmeng
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvecteng.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvecteng.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module maskvecteng
+
+Top level modules:
+	maskvecteng
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclkx.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclkx.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ffxkclkx
+
+Top level modules:
+	ffxkclkx
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compareeng.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compareeng.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module compareeng
+
+Top level modules:
+	compareeng
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/Status_Engine.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/Status_Engine.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Status_Engine
+
+Top level modules:
+	Status_Engine
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclk.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclk.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ffxkclk
+
+Top level modules:
+	ffxkclk
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tb_tcam.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tb_tcam.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_tcam
+
+Top level modules:
+	tb_tcam
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvecteng.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvecteng.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module segvecteng
+
+Top level modules:
+	segvecteng
+
+} {} {}} {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/priocmpeng.v} {1 {vlog -work work -stats=none {C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/priocmpeng.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module priocmpeng
+
+Top level modules:
+	priocmpeng
+
+} {} {}}
