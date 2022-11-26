@@ -1,0 +1,347 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/dangt/OneDrive/Documents/Projects/Capstone Project 2
+valram1x
+Z0 !s110 1627577531
+!i10b 1
+!s100 z0I3A<hbNLmf8zKeL>g690
+I42`3J1ELDLeTF=5c`SONE3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM
+w1627571954
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/alram1x.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/alram1x.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1627577531.000000
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/alram1x.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/alram1x.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcompareeng
+R0
+!i10b 1
+!s100 ?J`HP;AHQdHkn02VNBY@f0
+I6W=<_4MZB6MmQKZ;ajbXH0
+R1
+R2
+w1627575333
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compareeng.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compareeng.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compareeng.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compareeng.v|
+!i113 1
+R5
+R6
+vcompr_datapath
+R0
+!i10b 1
+!s100 hT6AA8z1Q^W1DGCn7=KZz1
+IKgHiUc01I]MQVE?[9lm8X3
+R1
+R2
+w1627576483
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compr_datapath.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compr_datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compr_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compr_datapath.v|
+!i113 1
+R5
+R6
+vcompreng
+R0
+!i10b 1
+!s100 P58XmAKDHSXdJgC0EWKzb3
+I7ho5l3YGaogC:AXcR9`;G3
+R1
+R2
+w1627572457
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compreng.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compreng.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compreng.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/compreng.v|
+!i113 1
+R5
+R6
+vconfirmeng
+R0
+!i10b 1
+!s100 l4mIEkVWLcDJjJJz9F<CD2
+Id>on384PfcDdRcc0`;UL90
+R1
+R2
+w1627576698
+8C:\Users\dangt\OneDrive\Documents\Projects\TCAM Project\TCAM Code Execution and Explanation\Optimal M10K TCAM\confirmeng.v
+FC:\Users\dangt\OneDrive\Documents\Projects\TCAM Project\TCAM Code Execution and Explanation\Optimal M10K TCAM\confirmeng.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\dangt\OneDrive\Documents\Projects\TCAM Project\TCAM Code Execution and Explanation\Optimal M10K TCAM\confirmeng.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\dangt\OneDrive\Documents\Projects\TCAM Project\TCAM Code Execution and Explanation\Optimal M10K TCAM\confirmeng.v|
+!i113 1
+R5
+R6
+vconfirmmem
+R0
+!i10b 1
+!s100 CN[R9]:Hz7AL<4IJ1ck?M3
+I6>?NV`UA99PW<eI:k4eKM2
+R1
+R2
+w1627576888
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/confirmmem.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/confirmmem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/confirmmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/confirmmem.v|
+!i113 1
+R5
+R6
+vffxkclk
+R0
+!i10b 1
+!s100 :HnDB^g5M=b[>D_mN]FK41
+Io6SB8o`7ejFo5QOG:j2[B0
+R1
+R2
+w1620483780
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclk.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclk.v
+Z7 L0 14
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclk.v|
+!i113 1
+R5
+R6
+vffxkclkx
+Z8 !s110 1627577532
+!i10b 1
+!s100 FBaQPI_b<4ORmPB4eLiX83
+I73Z4GfT821l[efozRhMQ50
+R1
+R2
+w1616958963
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclkx.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclkx.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclkx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/ffxkclkx.v|
+!i113 1
+R5
+R6
+vmaskvecteng
+R8
+!i10b 1
+!s100 ziIU9YMH;MXD?n7_5OW>G2
+I2W>2jD5^Z:fOTzK?QFl[m2
+R1
+R2
+w1622048874
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvecteng.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvecteng.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1627577532.000000
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvecteng.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvecteng.v|
+!i113 1
+R5
+R6
+vmaskvectmem
+R8
+!i10b 1
+!s100 3K_h3kk[BA>Z8SdoVmWah0
+IlSGFzSoN2M63Q`Akja<_Q1
+R1
+R2
+w1622049661
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvectmem.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvectmem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvectmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/maskvectmem.v|
+!i113 1
+R5
+R6
+vpriocmpeng
+R8
+!i10b 1
+!s100 59Y9;@Gj6Ajgoi?b?ooVz3
+IWbHBB>UhbC_]I0E48V1CY0
+R1
+R2
+w1626789977
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/priocmpeng.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/priocmpeng.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/priocmpeng.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/priocmpeng.v|
+!i113 1
+R5
+R6
+vsegvecteng
+R8
+!i10b 1
+!s100 WA1@a:L<SLT7O5zQRIMFg1
+I78G_=]iaW`=KkJnfmLXJM2
+R1
+R2
+w1627574699
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvecteng.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvecteng.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvecteng.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvecteng.v|
+!i113 1
+R5
+R6
+vsegvectmem
+R8
+!i10b 1
+!s100 SSEhz9S]0cRAgFPoaj`7;3
+IVlLn_2>B7UQ5H:>TCh6n:0
+R1
+R2
+w1627574921
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvectmem.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvectmem.v
+R7
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvectmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/segvectmem.v|
+!i113 1
+R5
+R6
+vStatus_Engine
+R8
+!i10b 1
+!s100 3XE?jfe`7LgalOeU8ZBMm2
+IMaeT<@?T<P480Xz^U^`991
+R1
+R2
+w1622051853
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/Status_Engine.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/Status_Engine.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/Status_Engine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/Status_Engine.v|
+!i113 1
+R5
+R6
+n@status_@engine
+vtb_tcam
+R8
+!i10b 1
+!s100 CKWna]OZ;_G@;=R04mH=k1
+Ik^H[=MIWGL=3=AnT>0XPU0
+R1
+R2
+w1627575100
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tb_tcam.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tb_tcam.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tb_tcam.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tb_tcam.v|
+!i113 1
+R5
+R6
+vtcam
+R8
+!i10b 1
+!s100 XTg<2bVQjj]T8HJb_;Ahk2
+IMXEE]1RRk<oYhG^Yk?;6@0
+R1
+R2
+w1627577420
+8C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tcam.v
+FC:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tcam.v
+L0 11
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tcam.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dangt/OneDrive/Documents/Projects/TCAM Project/TCAM Code Execution and Explanation/Optimal M10K TCAM/tcam.v|
+!i113 1
+R5
+R6
